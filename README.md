@@ -1,6 +1,6 @@
 <div id="repo-header" align="center">
  <img id="repo-logo" alt="repo-logo" src="" height="80"></img>
-  <h1  id="repo-title"> Project </h1>
+  <h1  id="repo-title"><b> Title Of The Project</b></h1>
   <h3  id="repo-description" > Short Description </h3>
   <hr>
 </div>
@@ -38,8 +38,9 @@
 ## Introduction
 ### Project Description
 This is the introduction to the repository. It is a good place to introduce the project and its goals.
-You can also use the [GitHub Flavored Markdown](https://github.github.com/gfm/) syntax or HTML to style your README.
-
+You can also use the [GitHub Flavored Markdown](https://github.github.com/gfm/) syntax or HTML to style your README. You can also create the titles of your project with [TAAG](https://patorjk.com/software/taag/), you can use the following links:
+- [main.py Font](https://patorjk.com/software/taag/#p=display&f=JS%20Stick%20Letters&t=PROJECT%20TITLE)
+- [.GIT files font](https://patorjk.com/software/taag/#p=display&f=Big%20Money-ne&t=.GIT%20TITLE)
 
 ### Project Goals
 The project has the following goals:
